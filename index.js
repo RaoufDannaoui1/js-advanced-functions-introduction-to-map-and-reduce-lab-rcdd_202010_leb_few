@@ -1,5 +1,5 @@
 // Your code here
-let arr1=[1,2,3,4];
+let arr1=[1,2,3,-9];
 
 function mapToNegativize(arr1) {
   arr1.map( (e) => {
